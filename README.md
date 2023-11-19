@@ -2,6 +2,16 @@
 
 Project implementations done for EEE485 course, Bilkent University.
 
+### Needed libraries and versions 
+  - python=3.8.17
+  - numpy=1.24.0
+  - matplotlib=3.7.1
+  - pandas=2.0.2
+  - ipykernel=6.23.2
+  - seaborn=0.12.1
+
+All of them installed from conda-forge channel.
+
 ## Coverage of the repository
 
 In this repository, you can find my project that includes implementations of the following algorithms:
