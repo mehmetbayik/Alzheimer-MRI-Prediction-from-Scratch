@@ -1,6 +1,8 @@
 # EEE485 Statistical Learning and Data Analytics
 
-Project implementations done for EEE485 course, Bilkent University, Fall 2023. For detailed information, check the project report.
+Project implementations done for EEE485 course, Bilkent University, Fall 2023. 
+
+For detailed information, check the project report.
 
 ### Needed libraries and versions 
   - python=3.8.17
