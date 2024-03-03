@@ -37,3 +37,8 @@ In this project, Alzheimer MRI dataset used from Kaggle. You can find the datase
 https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset
 
 In this Kaggle dataset, there are total of 6400 images collected from several websites, hospitals, public repositories. The dataset includes 4 classes of 128x128 preprocessed images. These classes are: Non Demented, Very Mild Demented, Mild Demented, Moderate Demented and there are 3200, 2240, 896, 64 images in these classes respectively.
+
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
