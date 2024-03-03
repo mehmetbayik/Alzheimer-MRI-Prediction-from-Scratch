@@ -1,6 +1,6 @@
 # EEE485 Statistical Learning and Data Analytics
 
-Project implementations done for EEE485 course, Bilkent University, Fall 2023.
+Project implementations done for EEE485 course, Bilkent University, Fall 2023. For detailed information, check the project report.
 
 ### Needed libraries and versions 
   - python=3.8.17
@@ -24,7 +24,7 @@ Logistic Regression implemented using Python, Numpy and Pandas without using any
 
 Support Vector Machine implemented using Python, Numpy and Pandas without using any ML specific libraries.
 
-### Neural Network
+### Neural Networks
 
 Neural Networks implemented using Python, Numpy and Pandas without using any ML specific libraries.
 
